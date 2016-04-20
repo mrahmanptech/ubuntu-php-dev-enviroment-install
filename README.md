@@ -16,7 +16,7 @@ sudo apt-get install apache2 php5 libapache2-mod-php5
 
 service apache2 restart
 
-Mysql & Phpomyadmin Install :
+Mysql & Phpmyadmin Install :
 -----------------------------
 sudo apt-get install mysql-server
 apt-get install phpmyadmin [before phpmyadmin install first install Mysql]
